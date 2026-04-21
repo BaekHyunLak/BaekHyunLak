@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=200&section=header&text=Lak%20Tran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Systems%20%7C%20DevOps&descAlignY=58&descSize=18&descColor=a5f3fc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=200&section=header&text=Lak%20Tran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20Systems%20%7C%20DevOps&descAlignY=58&descSize=18&descColor=a5f3fc" />
 
 </div>
 
