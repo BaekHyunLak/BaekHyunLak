@@ -15,17 +15,12 @@
 ## 🧑‍💻 About Me
 
 ```bash
-➜  whoami
-  Lak Tran — Backend & Systems Developer
-
-➜  cat ./about.json
-  {
-    "location"  : "Ho Chi Minh City, Vietnam 🌍",
-    "focus"     : "Systems, Web & DevOps",
-    "github"    : "@BaekHyunLak",
-    "email"     : "bestlak307@gmail.com",
-    "status"    : "open to opportunities ✅"
-  }
+🔭 Currently working on a major Web Project with a 3-phase roadmap:
+Phase 1: Frontend + Backend (Python) for communication.
+Phase 2: Database (MySQL/PostgreSQL) for persistence with PV/PVC and Secret Management.
+Phase 3: Redis/Caching for performance optimization.
+🌱 Currently learning: Machine Learning, AI Agents, OOP (Java), and mastering Linux/Vim.
+📫 How to reach me: bestlak307@gmail.com
 ```
 
 ---
