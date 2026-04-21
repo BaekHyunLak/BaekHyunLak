@@ -19,9 +19,10 @@
 Phase 1: Frontend + Backend (Python) for communication.
 Phase 2: Database (MySQL/PostgreSQL) for persistence with PV/PVC and Secret Management.
 Phase 3: Redis/Caching for performance optimization.
-🌱 Currently learning: Machine Learning, AI Agents, OOP (Java), and mastering Linux/Vim.
-📫 How to reach me: bestlak307@gmail.com
 
+🌱 Currently learning: Machine Learning, AI Agents, OOP (Java), and mastering Linux/Vim.
+
+📫 How to reach me: bestlak307@gmail.com
 
 ---
 
