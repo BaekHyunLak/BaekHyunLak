@@ -15,12 +15,9 @@
 ## 🧑‍💻 About Me
 
 
-🔭 Currently working on a major Web Project with a 3-phase roadmap:
-Phase 1: Frontend + Backend (Python) for communication.
-Phase 2: Database (MySQL/PostgreSQL) for persistence with PV/PVC and Secret Management.
-Phase 3: Redis/Caching for performance optimization.
+🔭 Currently working on a major Web Project
 
-🌱 Currently learning: Machine Learning, AI Agents, OOP (Java), and mastering Linux/Vim.
+🌱 Currently learning: Cloud, AI Agents, OOP (Java), and mastering Linux/Vim.
 
 📫 How to reach me: bestlak307@gmail.com
 
