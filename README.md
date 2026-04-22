@@ -51,30 +51,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaekHyunLak&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f0f1a&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaekHyunLak&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=0f0f1a&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BaekHyunLak&stroke=ffffff&background=0f0f1a&ring=0891b2&fire=7c3aed&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=64748b&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BaekHyunLak&bg_color=0f0f1a&color=0891b2&line=7c3aed&point=00ff9d&area=true&hide_border=true" />
-
-</div>
-
----
+--- 
 
 ## 🌐 Connect with Me
 
