@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=200&section=header&text=Lak%20Tran&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20Systems%20%7C%20DevOps&descAlignY=58&descSize=18&descColor=a5f3fc" />
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Lak+%F0%9F%91%8B)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
